@@ -25,3 +25,4 @@ print('No. of Rows:',len(df.axes[0]))
 ## OUTPUT:
 ![output](.//csv.png)
 ## RESULT:
+Thus the given python program to solve the contents of the csv file
